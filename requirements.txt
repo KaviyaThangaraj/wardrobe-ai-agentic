@@ -1,0 +1,14 @@
+llama-index-core
+llama-index-vector-stores-qdrant
+llama-index-embeddings-fastembed
+qdrant-client
+python-dotenv
+google-genai
+langchain_google_genai
+langgraph
+langchain-core
+langchain
+langchain-google-vertexai
+transformers[torch]
+FastAPI
+langsmith
